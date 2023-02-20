@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 65px;
+}
+.ob-container {
+  background-color: black;
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
+  margin: 35px;
+}
+.iw-container {
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 10px;
+  height: 40px;
+  width: 120px;
+  color: black;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.btn-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.ow-container {
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+}
+.b-head {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+.w-head {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+.ib-container {
+  background-color: black;
+
+  border: 5px solid black;
+  border-radius: 10px;
+  height: 40px;
+  width: 120px;
+  color: white;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
